@@ -36,7 +36,7 @@ class Actions:
         >>> from game import Game
         >>> game = Game()
         >>> game.setup()
-        >>> go(game, ["go", "N"], 1)
+        >>> go(game, ["go", "N"], 
         True
         >>> go(game, ["go", "N", "E"], 1)
         False
